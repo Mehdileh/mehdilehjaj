@@ -2,6 +2,9 @@
 
 🚀 Passionné par le développement full-stack, j’aime transformer des idées en applications fonctionnelles et optimisées. Toujours curieux et en quête d’innovation, je cherche à relever de nouveaux défis et à apprendre en continu pour améliorer mes compétences et créer des solutions impactantes. 💡✨  
 
+## 📫 Contact
+- 📧 **Email :** mehdi.lehjaj@etu.estia.fr  
+- 💼 **LinkedIn :** [linkedin.com/in/mehdilehjaj](https://linkedin.com/in/mehdilehjaj)  
 
 
  ## 🔧 Technologies & Compétences  
@@ -40,8 +43,4 @@
 
 ## 📊 Mes statistiques GitHub
 ![Mehdilehjaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdileh&show_icons=true&theme=radical)
-
-## 📫 Contact
-- 📧 **Email :** mehdi.lehjaj@etu.estia.fr  
-- 💼 **LinkedIn :** [linkedin.com/in/mehdilehjaj](https://linkedin.com/in/mehdilehjaj)  
-- 🔗 **Portfolio :** [mehdilehjaj.netlify.app](https://mehdilehjaj.netlify.app)  
+ 
