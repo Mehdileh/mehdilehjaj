@@ -12,7 +12,7 @@
 - **Cloud & DevOps :** AWS, Docker, Git, CI/CD  
 
 ## 📊 Mes statistiques GitHub
-![Mehdilehjaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdilehjaj&show_icons=true&theme=radical)
+![Mehdilehjaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdileh&show_icons=true&theme=radical)
 
 ## 📫 Contact
 - 📧 **Email :** mehdi.lehjaj@etu.estia.fr  
