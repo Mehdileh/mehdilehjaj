@@ -3,12 +3,7 @@
 🎓 **Étudiant Ingénieur à l'ESTIA**, en double diplôme **Big Data & Systèmes d'intégration**  
 💻 Passionné par le **développement full-stack**, l'**IA** et le **Big Data**   
 
-## 🔧 Technologies & Compétences  
-- **Langages :** Java, Python, C++, JavaScript, HTML, CSS, PHP
-- **Back-end :** Spring Boot, Django, Node.js, Flask
-- **Front-end :** React.js, Angular  
-- **Bases de données :** PostgreSQL, MongoDB, MySQL  
-- **Cloud & DevOps :** AWS, Docker, Git, CI/CD
+
 
  ## 🔧 Technologies & Compétences  
 
